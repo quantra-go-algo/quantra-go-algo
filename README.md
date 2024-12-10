@@ -130,7 +130,7 @@ QuantInsti offers one of the world’s most comprehensive ecosystems for Algorit
 
 ---
 
-# Other Free Resources
+# Other Resources
 
 ---
 

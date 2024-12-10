@@ -34,28 +34,37 @@ This repository is part of **QuantInsti’s** publicly available resources for A
 
 ---
 
-### About QuantInsti
+### 🌐 About QuantInsti
 QuantInsti offers one of the world’s most comprehensive ecosystems for Algorithmic & Quantitative Trading, offering educational and technological solutions to individuals and institutions. Our online learning platform features top industry experts who share their decades of experience in a unique interactive manner. We also empower brokerage houses & hedge funds with our institutional-grade technology and trading platform, enabling them to offer advanced trading tools to millions of users.
 
 ---
 
 ##### **Our Community by the Numbers**
-<div style="display: table; width: 100%; margin: 20px auto; text-align: center; border: 1px solid #ccc; border-collapse: collapse; font-size: 0.9em;">
-
-  <div style="display: table-row; background-color: #f9f9f9;">
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc; font-weight: bold;">📊 Users</div>
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc; font-weight: bold;">🌍 Countries</div>
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc; font-weight: bold;">⭐ Reviews</div>
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc; font-weight: bold;">🤝 Corporate Partners</div>
-  </div>
-
-  <div style="display: table-row;">
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc;">1.2M+ Users engage with our content every year.</div>
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc;">190+ Countries and territories reached.</div>
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc;">10,000+ Five-Star Reviews highlight user satisfaction.</div>
-    <div style="display: table-cell; padding: 10px; border: 1px solid #ccc;">300+ Corporate Partners trust us globally.</div>
-  </div>
-
+<div style="display: inline-block; text-align: center; width: 100%; margin: 20px auto;">
+  <table style="border-collapse: collapse; width: 100%; text-align: center;">
+    <tr style="background-color: #f9f9f9; border: 1px solid #ccc;">
+      <td align="center" style="padding: 20px;">
+        📊 <strong>Users</strong>
+        <br>
+        <p style="margin: 10px 0;">1.2M+ Users engage with our content every year.</p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        🌍 <strong>Countries</strong>
+        <br>
+        <p style="margin: 10px 0;">190+ Countries and territories reached.</p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        ⭐ <strong>Reviews</strong>
+        <br>
+        <p style="margin: 10px 0;">10,000+ Five-Star Reviews highlight user satisfaction.</p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        🤝 <strong>Corporate Partners</strong>
+        <br>
+        <p style="margin: 10px 0;">300+ Corporate Partners trust us globally.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -270,5 +279,6 @@ A-309, Boomerang, Chandivali Farm Road, Powai, Mumbai – 400 072
 📧 Email: [contact@quantinsti.com](mailto:contact@quantinsti.com)  
 📞 Phone: +91 8976996960  
 
+---
 
 © QuantInsti Quantitative Learning Private Limited

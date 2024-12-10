@@ -13,7 +13,7 @@ This repository is part of **QuantInsti’s** publicly available resources for A
  - 🎓 [**quantra-courses**](https://github.com/quantra-go-algo/quantra-courses)  
    Free courses and resources on algorithmic trading and quantitative finance.  
    
-       - 📊 Options and Futures: Learn Fundamental of Options Trading Strategies in Python.
+       - 📊 Options and Futures: Learn fundamentals of Options Trading Strategies in Python.
        - 🤖 Quantitative Trading: Explore the basics of machine learning in trading through interactive Jupyter notebooks.
        - 💻 Start Algorithmic Trading: Dive into algorithmic trading by implementing Python-based strategies from scratch.
 

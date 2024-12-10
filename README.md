@@ -29,7 +29,7 @@ This repository is part of **QuantInsti’s** publicly available resources for A
 
 
 
- - 🛠️ [**quantra-python-enviorment**](https://github.com/quantra-go-algo/quantra-python-enviorment)    
+ - 🛠️ [**quantra-enviorment**](https://github.com/quantra-go-algo/quantra-enviorment)    
    `.yml` files to set up Python environments for Quantra projects with all required dependencies pre-installed.
 
 ---

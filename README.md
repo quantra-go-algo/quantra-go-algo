@@ -166,7 +166,7 @@ QuantInsti offers one of the world’s most comprehensive ecosystems for Algorit
 
 ---
 
-### Our Free Courses:
+### Free Courses:
 
 <div align="center">
   <h2>Free Quantra Courses</h2>

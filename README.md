@@ -1,5 +1,5 @@
 # Welcome to the Quantra-Go-Algo GitHub Page
-
+**Quick Links**: [YouTube](https://www.youtube.com/user/quantinsti) | [Webinars](https://blog.quantinsti.com/tag/webinars/) | [Blogs](https://www.quantinsti.com/blog/) | [Community](https://quantra.quantinsti.com/community)   <br>  **Connect with Us**: [Website](https://www.quantinsti.com) | [LinkedIn](https://www.linkedin.com/company/quantinsti) | [Facebook](https://www.facebook.com/quantinsti) | [Twitter](https://twitter.com/quantinsti) | [Email](mailto:support@quantinsti.com)
 ---
 This repository is part of <a href="https://www.quantinsti.com" style="text-decoration: none; color: #28a745; font-weight: bold;"> **QuantInsti’s**</a> publicly available resources for Algorithmic and Quantitative Trading. Whether you’re a beginner or a seasoned professional, explore practical tools, educational content, and a thriving community dedicated to advancing financial market technology:
 
@@ -25,6 +25,6 @@ This repository is part of <a href="https://www.quantinsti.com" style="text-deco
    `.yml` files to set up Python environments for Quantra projects with all required dependencies pre-installed.
 
 ---
-**Quick Links**: [YouTube](https://www.youtube.com/user/quantinsti) | [Webinars](https://blog.quantinsti.com/tag/webinars/) | [Blogs](https://www.quantinsti.com/blog/) | [Community](https://quantra.quantinsti.com/community)   <br>  **Connect with Us**: [Website](https://www.quantinsti.com) | [LinkedIn](https://www.linkedin.com/company/quantinsti) | [Facebook](https://www.facebook.com/quantinsti) | [Twitter](https://twitter.com/quantinsti) | [Email](mailto:support@quantinsti.com)
+
 
 © QuantInsti Quantitative Learning Private Limited
